@@ -1,4 +1,4 @@
 This is a sample text file.
 lorem ipsum dolor sit amet
-Hello hello hello hello
+Hello hello hello hello conflict
 abir abir abir abir
