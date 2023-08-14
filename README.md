@@ -1,1 +1,2 @@
-# SyntaxSages__SQA_Practice
+# SyntaxSage 
+## Practice folder
