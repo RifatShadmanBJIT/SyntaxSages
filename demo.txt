@@ -3,4 +3,4 @@ development
 line one
 line two
 line one
-Hi i find new bug
+Hi. This is the replaced line.
