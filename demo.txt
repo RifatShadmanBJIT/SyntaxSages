@@ -1,6 +1,2 @@
 SyntaxSages
-development
-line one
 line two
-line one
-Hi. This is the replaced line.
