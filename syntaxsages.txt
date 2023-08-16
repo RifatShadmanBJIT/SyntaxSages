@@ -1,3 +1,8 @@
-This is a sample text file.
-lorem ipsum dolor sit amet
-Hello hello hello hello hi hi hi
+I know my friends and I would probably turn and run
+Burn the page
+<<<<<<< HEAD
+My little dark age
+
+=======
+My little dark age
+>>>>>>> 2358f62285ac6da131669e2c0fbe5179552cec7d
