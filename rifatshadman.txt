@@ -1,0 +1,10 @@
+lorem upsuinmfsa reaikn 
+BJIT Limited, Japan
+from Abir 
+BJIT Bangladesh
+hello!!! This is another file.
+<<<<<<< HEAD
+BJIT Limited, Japan
+=======
+BJIT Limited, Japan
+>>>>>>> 0904429d0f0ab47238383882d46ec5e678a9a962
