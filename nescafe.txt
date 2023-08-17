@@ -1,6 +1,17 @@
 Hi this is....
 Every two days one 400gm bottle of nescafe is consumed
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+conflict
+>>>>>>> 0e4aa87608b96cd985100359811fab120f4c639e
+wetsrdfgjhk hrjaepiwjrflk  lkmutdfvjk 
+BJIT academy, Bangladesh
+I dont know
+Research proposal needed
+=======
 edited in arifa2
 wetsrdfgjhklkmutdfvjk
 BJIT academy, Bangladesh
 
+>>>>>>> 10b9f6d9cfb07d1188985b6fc444466e9b01cce8
